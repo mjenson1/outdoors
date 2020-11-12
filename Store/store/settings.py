@@ -1,3 +1,5 @@
+
+#whats up big dogs
 """
 Django settings for store project.
 
