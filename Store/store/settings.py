@@ -1,3 +1,5 @@
+#Hi matt
+
 """
 Django settings for store project.
 
